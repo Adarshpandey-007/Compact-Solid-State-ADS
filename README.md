@@ -1,6 +1,6 @@
 # ✨ Compact Solid-State Active Denial System (ADS): Redefining Non-Lethal Deterrence ✨
 
-**Author:** Adarsh Pandey.
+**Author:** Adarsh Pandey*
 **Date of Submission:** 28/02/2025
 
 ---
