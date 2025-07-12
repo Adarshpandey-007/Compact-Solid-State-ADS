@@ -72,7 +72,8 @@ Dual-Use Potential: Adaptable for disaster management (clearing blocked routes, 
 
 Technological Leadership: Positions India at the forefront of solid-state directed-energy systems, aligning with DRDO's "Dream to Dare" vision for indigenous defense technology.
 
-📄 Full Documentation
-For a comprehensive understanding of the project's objectives, detailed technical specifications, safety protocols, and future roadmap, please refer to the full project documentation:
+## 📚 **Dive Deeper: Full Documentation**
 
-Public Access Documentation
+Ready to explore every detail, every simulation, and every safety protocol? Access the complete project documentation here:
+
+**[Explore the Full Project Document Here!](https://github.com/Adarshpandey-007/Compact-Solid-State-ADS/blob/main/Compact%20Solid-State%20Active%20Denial%20System%20(ADS)_2.pdf)**
